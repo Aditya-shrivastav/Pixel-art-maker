@@ -2,14 +2,18 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+* [Instroduction](#instroduction)
 * [Contributing](#contributing)
 
-## Instructions
+## Introduction
 
-To get started, open `designs.js` and start building out the app's functionality.
+This project is written in javascript.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+It is a pixel art maker
+
+In it after defining the width and height of the grid you can color the grid to make awesome design.
+
+It works dynamically.
 
 ## Contributing
 
